@@ -70,3 +70,9 @@ To run this notebook:
 - The notebook is configured to run on Databricks runtime environments.
 
 Feel free to clone this repository and adapt the code to fit your data processing needs.
+
+## Proof of work on DataBricks
+
+![Screenshot 2023-11-27 at 11 44 43](https://github.com/nogibjj/ids706-mini-project-11/assets/78721466/5188eda3-01e7-4772-ae48-3f0666566bab)
+
+
